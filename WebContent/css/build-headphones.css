@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+
+.container {
+	width: 100%;
+}
+
+.item h1 {
+	margin-bottom: 20px;
+}
+
+#sony img {
+	margin-left: 25px;
+	margin-top: 60px;
+}
+
+#bose img {
+	margin-top: 50px;
+}
+
+#beats img {
+	margin-left: 60px;
+}
+
+#brand-no-pref {
+	margin-left: 35px;
+	margin-top: 50px;
+	padding: 20px;
+	font-size: 30px;
+}
+
+.brand-row {
+	margin-top: 80px;
+}
+
+a img:hover, a img:active {
+	width: 85%;
+	height: 85%;
+}

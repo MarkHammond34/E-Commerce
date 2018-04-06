@@ -1,0 +1,28 @@
+@font-face {
+	font-family: Raleway-Regular;
+	src: url("../fonts/Raleway-Regular.ttf");
+}
+
+@font-face {
+	font-family: Raleway-ExtraBold;
+	src: url("../fonts/Raleway-ExtraBold.ttf");
+}
+
+.header {
+	height: 100px;
+	box-shadow: 10px 10px 5px #000000;
+	line-height: 100px;
+}
+
+.headphone-header {
+	font-family: Raleway-ExtraBold;
+	font-size: 80px;
+	font-size: 90px;
+	color: white;
+	margin-left: 15px;
+	font-size: 40px;
+}
+
+body {
+	background: url("../images/b36.png");
+}

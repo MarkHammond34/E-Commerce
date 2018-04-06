@@ -1,0 +1,29 @@
+body {
+	background: url("../images/admin-background.jpg");
+}
+
+.navbar-brand {
+	margin-left: 10px;
+}
+
+.well {
+	margin-top: 10px;
+}
+
+.well button {
+	margin: 10px;
+}
+
+.message-box {
+	border-radius: 25px;
+	text-align: center;
+	color: white;
+}
+
+.success-message {
+	background-color: green;
+}
+
+.error-message {
+	background-color: red;
+}
